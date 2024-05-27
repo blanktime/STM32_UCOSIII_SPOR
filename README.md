@@ -6,5 +6,5 @@
 
 2.消息队列同步串口信息
 
-##参考旧版说明
+### 参考旧版说明
 https://github.com/blanktime/STM32_KMP/tree/master
